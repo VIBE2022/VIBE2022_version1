@@ -1,9 +1,9 @@
-full_title: Virtual Institute of Bioinformatics and Evolution
+full_title: All-Ireland Virtual Institute of Bioinformatics and Evolution
 short_title: VIBE 2022
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   All Ireland meeting of computational biologists and bioinformaticians  
-location: Limerick
+location: School of Medicine, University of Limerick
 date: June 24th 2022
 logo_path: ./assets/images/logo.jpg
 slideshow:
