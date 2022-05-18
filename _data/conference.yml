@@ -9,10 +9,10 @@ logo_path: ./assets/images/logo.jpg
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
-    description: UL
+    description: VIBE 2022 Poster
     photographer_name: 
     photographer_link: 
-    active: False
+    active: True
   - id: 1
     image_path: ./assets/images/slideshow/image1.jpg
     description: San Jose Museum of Art
