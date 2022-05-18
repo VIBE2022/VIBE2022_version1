@@ -32,7 +32,7 @@
     title: "More talks"
     type: "presentation"
     events: 
-        - title: "title"
+      - title: "title"
         speakers: "Speaker"
       - title: "title"
         speakers: "speaker" 
