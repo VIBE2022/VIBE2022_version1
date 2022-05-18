@@ -15,16 +15,29 @@ slideshow:
     active: True
   - id: 1
     image_path: ./assets/images/slideshow/image1.jpg
-    description: San Jose Museum of Art
-    photographer_name: Bryan Nabong
-    photographer_link: https://www.flickr.com/photos/bongarang/
-    active: False
+    description: 
+    photographer_name: 
+    photographer_link: 
+    active: True
   - id: 2
     image_path: ./assets/images/slideshow/image2.jpg
-    description: San Jose State University
-    photographer_name: David Sawyer
-    photographer_link: https://www.flickr.com/photos/18702768@N04/
-    active: False
+    description: 
+    photographer_name:
+    photographer_link:
+    active: True
+  - id: 3
+    image_path: ./assets/images/slideshow/image3.jpg
+    description: 
+    photographer_name:
+    photographer_link:
+    active: True
+  - id: 4
+    image_path: ./assets/images/slideshow/image4.jpg
+    description: 
+    photographer_name:
+    photographer_link:
+    active: True
+    
 navbar:
   - id: 0
     label: Home
