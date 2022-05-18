@@ -1,43 +1,30 @@
 full_title: Virtual Institute of Bioinformatics and Evolution
 short_title: VIBE 2022
-email: hotweb2017@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   All Ireland meeting of computational biologists and bioinformaticians  
 location: Limerick
 date: June 24th 2022
-logo_path: ./assets/images/logo2017.jpg
+logo_path: ./assets/images/logo.jpg
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
-    description: San Jose night scene
-    photographer_name: Mike Boening
-    photographer_link: https://www.flickr.com/photos/memoriesbymike/
-    active: True
+    description: UL
+    photographer_name: 
+    photographer_link: 
+    active: FALSE
   - id: 1
     image_path: ./assets/images/slideshow/image1.jpg
     description: San Jose Museum of Art
     photographer_name: Bryan Nabong
     photographer_link: https://www.flickr.com/photos/bongarang/
+    active: FALSE
   - id: 2
     image_path: ./assets/images/slideshow/image2.jpg
     description: San Jose State University
     photographer_name: David Sawyer
     photographer_link: https://www.flickr.com/photos/18702768@N04/
-  - id: 3
-    image_path: ./assets/images/slideshow/image3.jpg
-    description: Cathedral Basilica of St. Joseph
-    photographer_name: Patricia Montes Gregory
-    photographer_link: https://www.flickr.com/photos/32159045@N02/
-  - id: 4
-    image_path: ./assets/images/slideshow/image4.jpg
-    description: Winchester Mystery House
-    photographer_name: Pomax
-    photographer_link: https://www.flickr.com/photos/pomax/
-  - id: 5
-    image_path: ./assets/images/slideshow/image5.jpg
-    description: Rose Garden Branch Library
-    photographer_name: John Menard
-    photographer_link: https://www.flickr.com/photos/jmenard48/
+    active: FALSE
 navbar:
   - id: 0
     label: Home
@@ -50,7 +37,7 @@ navbar:
   - id: 2
     label: Call for Papers
     path: /cfp.html
-    visible: True
+    visible: False
   - id: 3
     label: Submission
     path: /submission.html
