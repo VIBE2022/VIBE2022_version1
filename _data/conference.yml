@@ -37,11 +37,11 @@ navbar:
   - id: 2
     label: Call for Papers
     path: /cfp.html
-    visible: False
+    visible: True
   - id: 3
     label: Submission
     path: /submission.html
-    visible: False
+    visible: True
   - id: 4
     label: Programs
     path: /program.html
@@ -58,20 +58,22 @@ deadlines:
   - date: June 3rd 2022
     timezone: GMT
     text: Submission deadline (extended)
-    pass_due: False
+    pass_due: True
 
 news:
   - date: May 18th 2022
     text: BD Biosciences announce sponsorship of VIBE 2022
   - date: May 18th 2022
     text: Website online
+    
 sponsors:
   - name: BD Biosciences
     logo_path: ./assets/images/sponsors/BD.png
 
 social_media:
-  facebook_link: https://www.facebook.com/hotwebseries/
+  facebook_link: 
   twitter_link:
+  
 program_chair:
   - name: Person X
     org: Univ
