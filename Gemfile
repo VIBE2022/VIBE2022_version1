@@ -20,6 +20,7 @@ ruby RUBY_VERSION
 #    gem 'jekyll-admin'
 #end
 
+gem "kramdown", ">= 2.3.1"
 gem 'tzinfo-data'
 gem 'tzinfo'
 
