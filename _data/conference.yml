@@ -44,34 +44,44 @@ navbar:
     path: /
     visible: True
   - id: 1
-    label: Organization
-    path: /organization.html
-    visible: True
-  - id: 2
-    label: Call for Papers
-    path: /cfp.html
-    visible: False
-  - id: 3
-    label: Submission
-    path: /submission.html
-    visible: True
-  - id: 4
-    label: Programs
-    path: /program.html
-    visible: True
-  - id: 5
-    label: Venue
-    path: /venue.html
-    visible: True
-  - id: 6
     label: Registration
     path: /registration.html
     visible: True
+  - id: 2
+    label: Submission
+    path: /submission.html
+    visible: True    
+  - id: 3
+    label: Organization
+    path: /organization.html
+    visible: True
+  - id: 4
+    label: Venue
+    path: /venue.html
+    visible: True
+  - id: 5
+    label: Programs
+    path: /program.html
+    visible: False
+  - id: 6
+    label: Call for Papers
+    path: /cfp.html
+    visible: False
+
+    
 deadlines:
+  - date: May 1st 2022
+    timezone: GMT
+    text: Registration and Abstract Submission Open
+    pass_due: False
   - date: June 3rd 2022
     timezone: GMT
-    text: Submission deadline (extended)
-    pass_due: True
+    text: Abstract Submission deadline 
+    pass_due: False
+  - date: June 24th 2022
+    timezone: GMT
+    text: VIBE 2022 Conference in Limerick
+    pass_due: False
 
 news:
   - date: May 18th 2022
@@ -84,8 +94,8 @@ sponsors:
     logo_path: ./assets/images/sponsors/BD.png
 
 social_media:
-  facebook_link: 
-  twitter_link:
+  facebook_link: https://www.ul.ie/limerick-dcrc/
+  twitter_link: @LimerickDCRC
   
 program_chair:
   - name: Person X
@@ -94,18 +104,21 @@ program_chair:
   - name: Person X
     org: Univ
     homepage: 
+    visible: False
     
 steering_committees:
   - name: Aedin Culhane
     org: University of Limerick
-    homepage:
+    homepage: https://scholar.google.com/citations?user=O8OszPcAAAAJ&hl=en
+    twitter: @AedinCulhane
   - name: Virag Sharma
     org: University of Limerick
-    homepage: 
+    homepage: https://scholar.google.de/citations?user=avIG62gAAAAJ&hl=en
+    twitter: @virag2k
 
 webmaster:
   - name: Aedin and Virag
     org: University of Limerick
-    homepage: 
+    homepage: https://www.ul.ie/limerick-dcrc/
 
 
