@@ -30,6 +30,6 @@ exclude:
 #   - Gemfile
 #   - Gemfile.lock
 
-# timezone: null
-# google_analytics: "" null
+# timezone: America/New_York
+# google_analytics: "" UA-99357652-1
 
