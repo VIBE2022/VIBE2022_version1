@@ -14,22 +14,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Conference information. The description is not displays on the website 
+# but it includes in meta data (for search engines)
+
  baseurl: "" # the subpath of your site, e.g. /blog
  url: "" # the base hostname & protocol for your site, e.g. http://example.com
  css: ./assets/hotweb.css
 
-title: VIBE Conference 2022
-description:  Virtual Institute of Bioinformatics and Evolution of Ireland Conference
-github_username:  VIBE2022
+ title: VIBE Conference 2022
+ description:  Virtual Institute of Bioinformatics and Evolution of Ireland Conference
+ github_username:  VIBE2022
 
 # Build settings
-markdown: kramdown
-theme: null
+ markdown: kramdown
+ theme: null
 # gems:
-exclude:
-#   - Gemfile
-#   - Gemfile.lock
+ exclude:
+   - Gemfile
+   - Gemfile.lock
 
+# timezone is set with tzinfo https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# currently _config.yml runs gem tzinfo-data and geme tzinfo.  Probably not needed, but leaving in case its needed in future
 # timezone: America/New_York
-# google_analytics: "" UA-99357652-1
+timezone: Europe/Dublin
 
+# google_analytics: "" UA-99357652-1
