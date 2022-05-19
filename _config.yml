@@ -27,8 +27,8 @@ markdown: kramdown
 theme: null
 # gems:
 exclude:
-  - Gemfile
-  - Gemfile.lock
+#   - Gemfile
+#   - Gemfile.lock
 
 timezone: null
 google_analytics: "" null
