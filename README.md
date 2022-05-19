@@ -22,7 +22,7 @@ In the top folder, you will find the `Gemfile` and site-specific configurations 
   bundle exec jekyll serve
 ```  
 
-If you are new to Ruby, Gems and Gemfiles, and github pages, the medium posts on [Gem and Gemfiles](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856), and [bundler](https://medium.com/@0xcolby/how-does-bundle-install-work-part-1-87a4349c192a) and [github pages](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github) are useful. 
+If you are new to Ruby, Gems and Gemfiles, and github pages, the medium posts on [Gem and Gemfiles](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856), and [bundler](https://medium.com/@0xcolby/how-does-bundle-install-work-part-1-87a4349c192a) and [github pages](https://docs.github.com/en/pages/quickstart) are useful. 
 
 
 ## Features
