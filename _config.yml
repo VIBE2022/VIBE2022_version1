@@ -18,13 +18,27 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 css: ./assets/hotweb.css
 
+
+title: VIBE Conference 2022
+email: ""
+description: >- # document head meta (for
+  Google search results) this means to ignore newlines until "baseurl:"
+  Virtual Institute of Bioinformatics and Evolution of Ireland
+  Annual Conference, Limerick 2022
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: """
+github_username:  VIBE2022
+
+
 # Build settings
 markdown: kramdown
+theme: null
 # gems:
 exclude:
   - Gemfile
   - Gemfile.lock
 
-timezone: America/New_York
-google_analytics: UA-99357652-1
+timezone: null
+google_analytics: "" null
 
