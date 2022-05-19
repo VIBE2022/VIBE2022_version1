@@ -110,11 +110,11 @@ steering_committees:
   - name: Aedin Culhane
     org: University of Limerick
     homepage: https://scholar.google.com/citations?user=O8OszPcAAAAJ&hl=en
-    twitter: @AedinCulhane
+    twitter_username: @AedinCulhane
   - name: Virag Sharma
     org: University of Limerick
     homepage: https://scholar.google.de/citations?user=avIG62gAAAAJ&hl=en
-    twitter: @virag2k
+    twitter_username: @virag2k
 
 webmaster:
   - name: Aedin and Virag
