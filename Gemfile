@@ -19,8 +19,7 @@ ruby RUBY_VERSION
 #group :jekyll_plugins do
 #    gem 'jekyll-admin'
 #end
-
+gem 'jekyll', '~> 4.2'
 gem "kramdown", ">= 2.3.1"
 gem 'tzinfo-data'
 gem 'tzinfo'
-
